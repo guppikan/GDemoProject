@@ -3,9 +3,9 @@ class Diff{
         int x=100;
         int y=20;
 
-        int diff;
-        diff=x-y;
+        int difference;
+        difference=x-y;
 
-        System.out.println("Diffrence of two numbers :"+diff);
+        System.out.println("Diffrence of two numbers :"+difference);
     }
 }
